@@ -20,3 +20,4 @@ tmp/
 img/*.*
 !.png
 
+/wp-config.php
