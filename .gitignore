@@ -17,3 +17,4 @@ tmp/
 # ‚¾‚¯‚Ç .png ‚¾‚¯‚Í–³Ž‹‚µ‚½‚­‚È‚¢
 img/*.*
 !.png
+wp-config.php
